@@ -9,3 +9,4 @@ Cancer is a leading cause of death worldwide, accounting for nearly 10 million d
 The goal of this project is to identify and analyze the allocation of the 4 most common cancers (breast, cervical, colon and rectum, and liver cancers) in different continents and different countries.
 
 ## 1st Page
+<img src="1stPage.png" alt="Alt text" width="400" height="300">
